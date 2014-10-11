@@ -1,5 +1,5 @@
 FROM node
-MAINTAINER Nathan LeClaire <nathan@docker.com>
+MAINTAINER AnyBucket Project <info@builtdock.com>
 
 ADD . /app
 WORKDIR /app
